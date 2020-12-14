@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "email": "david@david.com",
+      "password": "apod",
+      "name": "david b",
+      "id": 1
+    }
+  ],
+  
+  "photos": [
+    {
+      "userId": 1,
+      "noteText": "This is note text",
+      "title": "title of the note",
+      "imageUrl": "www.url-asdfasdf.com",
+      "date": "10-10-10",
+      "id": 0
+    }
+  ],
+  
+  "tags": [
+    {
+      "tag": "planet",
+      "id" : 1
+    },
+    {
+      "tag": "moon",
+      "id" : 2
+    }
+  ],
+
+  "photoTags": [
+    {
+      "photoId": 0,
+      "tagId"  : 1
+    }
+  ]
+}

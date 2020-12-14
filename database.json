@@ -1,0 +1,136 @@
+{
+  "users": [
+    {
+      "email": "david@david.com",
+      "password": "apod",
+      "name": "david b",
+      "id": 1
+    }
+  ],
+  "photos": [
+    {
+      "userId": "1",
+      "noteText": "",
+      "title": "NGC 346: Star Forming Cluster in the SMC",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/Ngc346_HubbleSchmidt_960.jpg",
+      "date": "2020-12-01",
+      "id": 1
+    },
+    {
+      "userId": "1",
+      "noteText": "",
+      "title": "NGC 346: Star Forming Cluster in the SMC",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/Ngc346_HubbleSchmidt_960.jpg",
+      "date": "2020-12-01",
+      "id": 2
+    },
+    {
+      "userId": "1",
+      "noteText": "",
+      "title": "NGC 346: Star Forming Cluster in the SMC",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/Ngc346_HubbleSchmidt_960.jpg",
+      "date": "2020-12-01",
+      "id": 3
+    },
+    {
+      "userId": "1",
+      "noteText": "Moon!",
+      "title": "Eye of Moon",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/MoonEye_Cooley_960.jpg",
+      "date": "2020-12-02",
+      "id": 4
+    },
+    {
+      "userId": "1",
+      "noteText": "mooon",
+      "title": "NGC 346: Star Forming Cluster in the SMC",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/Ngc346_HubbleSchmidt_960.jpg",
+      "date": "2020-12-01",
+      "id": 5
+    },
+    {
+      "userId": "1",
+      "noteText": "",
+      "title": "Saturn and Jupiter in Summer 2020",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/SaJu2020Lb_1024.jpg",
+      "date": "",
+      "id": 6
+    },
+    {
+      "userId": "1",
+      "noteText": "",
+      "title": "Saturn and Jupiter in Summer 2020",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/SaJu2020Lb_1024.jpg",
+      "date": "",
+      "id": 7
+    },
+    {
+      "userId": "1",
+      "noteText": "",
+      "title": "Eye of Moon",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/MoonEye_Cooley_960.jpg",
+      "date": "2020-12-02",
+      "id": 8
+    },
+    {
+      "userId": "1",
+      "noteText": "asdf",
+      "title": "Great Conjunction over Sicilian Lighthouse",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/LighthouseJupSat_Saragozza_960.jpg",
+      "date": "2020-12-08",
+      "id": 9
+    },
+    {
+      "userId": "1",
+      "noteText": "asdf",
+      "title": "Great Conjunction over Sicilian Lighthouse",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/LighthouseJupSat_Saragozza_960.jpg",
+      "date": "2020-12-08",
+      "id": 10
+    },
+    {
+      "userId": "1",
+      "noteText": "",
+      "title": "Saturn and Jupiter in Summer 2020",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/SaJu2020Lb_1024.jpg",
+      "date": "",
+      "id": 11
+    },
+    {
+      "userId": "1",
+      "noteText": "",
+      "title": "Eye of Moon",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/MoonEye_Cooley_960.jpg",
+      "date": "2020-12-02",
+      "id": 12
+    }
+  ],
+  "tags": [
+    {
+      "tag": "favorite",
+      "id": 1
+    },
+    {
+      "tag": "planet",
+      "id": 2
+    },
+    {
+      "tag": "moon",
+      "id": 3
+    },
+    {
+      "tag": "constellation",
+      "id": 4
+    },
+    {
+      "tag": "solar system",
+      "id": 5
+    }
+  ],
+  "photoTags": [
+    {
+      "photoId": 0,
+      "tagId": 1
+    }
+  ]
+}
