@@ -5,132 +5,112 @@
       "password": "apod",
       "name": "david b",
       "id": 1
+    },
+    {
+      "email": "jake@jake.com",
+      "password": "apod",
+      "name": "jake b",
+      "id": 2
     }
   ],
   "photos": [
     {
-      "userId": "1",
-      "noteText": "",
-      "title": "NGC 346: Star Forming Cluster in the SMC",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2012/Ngc346_HubbleSchmidt_960.jpg",
-      "date": "2020-12-01",
+      "userId": 1,
+      "noteText": "david1",
+      "title": "Eye of Moon",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/MoonEye_Cooley_960.jpg",
+      "date": "2020-12-02",
       "id": 1
     },
     {
-      "userId": "1",
-      "noteText": "",
-      "title": "NGC 346: Star Forming Cluster in the SMC",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2012/Ngc346_HubbleSchmidt_960.jpg",
-      "date": "2020-12-01",
+      "userId": 1,
+      "noteText": "david2",
+      "title": "The Antennae Galaxies in Collision",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/AntennaeGpotw1345a_1024.jpg",
+      "date": "2020-12-03",
       "id": 2
     },
     {
-      "userId": "1",
-      "noteText": "",
-      "title": "NGC 346: Star Forming Cluster in the SMC",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2012/Ngc346_HubbleSchmidt_960.jpg",
-      "date": "2020-12-01",
+      "userId": 1,
+      "noteText": "david3",
+      "title": "Curly Spiral Galaxy M63",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/Neyerm63_l1_1024.jpg",
+      "date": "2020-12-04",
       "id": 3
     },
     {
-      "userId": "1",
-      "noteText": "Moon!",
-      "title": "Eye of Moon",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2012/MoonEye_Cooley_960.jpg",
-      "date": "2020-12-02",
+      "userId": 2,
+      "noteText": "jake1",
+      "title": "Mammatus Clouds over Mount Rushmore",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/MammatusRushmore_Mattuzzi_960.jpg",
+      "date": "2020-12-07",
       "id": 4
     },
     {
-      "userId": "1",
-      "noteText": "mooon",
-      "title": "NGC 346: Star Forming Cluster in the SMC",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2012/Ngc346_HubbleSchmidt_960.jpg",
-      "date": "2020-12-01",
+      "userId": 2,
+      "noteText": "jake2",
+      "title": "Mons Rumker in the Ocean of Storms",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/MonsRumker_Letellier.jpg",
+      "date": "2020-12-05",
       "id": 5
     },
     {
-      "userId": "1",
-      "noteText": "",
-      "title": "Saturn and Jupiter in Summer 2020",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2012/SaJu2020Lb_1024.jpg",
-      "date": "",
+      "userId": 2,
+      "noteText": "jake3",
+      "title": "M16: Pillars of Star Creation",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/pillars8_hst_960.jpg",
+      "date": "2020-12-06",
       "id": 6
-    },
-    {
-      "userId": "1",
-      "noteText": "",
-      "title": "Saturn and Jupiter in Summer 2020",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2012/SaJu2020Lb_1024.jpg",
-      "date": "",
-      "id": 7
-    },
-    {
-      "userId": "1",
-      "noteText": "",
-      "title": "Eye of Moon",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2012/MoonEye_Cooley_960.jpg",
-      "date": "2020-12-02",
-      "id": 8
-    },
-    {
-      "userId": "1",
-      "noteText": "asdf",
-      "title": "Great Conjunction over Sicilian Lighthouse",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2012/LighthouseJupSat_Saragozza_960.jpg",
-      "date": "2020-12-08",
-      "id": 9
-    },
-    {
-      "userId": "1",
-      "noteText": "asdf",
-      "title": "Great Conjunction over Sicilian Lighthouse",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2012/LighthouseJupSat_Saragozza_960.jpg",
-      "date": "2020-12-08",
-      "id": 10
-    },
-    {
-      "userId": "1",
-      "noteText": "",
-      "title": "Saturn and Jupiter in Summer 2020",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2012/SaJu2020Lb_1024.jpg",
-      "date": "",
-      "id": 11
-    },
-    {
-      "userId": "1",
-      "noteText": "",
-      "title": "Eye of Moon",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2012/MoonEye_Cooley_960.jpg",
-      "date": "2020-12-02",
-      "id": 12
     }
   ],
   "tags": [
     {
-      "tag": "favorite",
+      "tag": "planet",
       "id": 1
     },
     {
-      "tag": "planet",
+      "tag": "moon",
       "id": 2
     },
     {
-      "tag": "moon",
+      "tag": "constellation",
       "id": 3
     },
     {
-      "tag": "constellation",
-      "id": 4
-    },
-    {
       "tag": "solar system",
-      "id": 5
+      "id": 4
     }
   ],
   "photoTags": [
     {
-      "photoId": 0,
-      "tagId": 1
+      "photoId": 1,
+      "tagId": "2",
+      "id": 1
+    },
+    {
+      "photoId": 2,
+      "tagId": "3",
+      "id": 2
+    },
+    {
+      "photoId": 3,
+      "tagId": "4",
+      "id": 3
+    },
+    {
+      "photoId": 4,
+      "tagId": "1",
+      "id": 4
+    },
+    {
+      "photoId": 5,
+      "tagId": "2",
+      "id": 5
+    },
+    {
+      "photoId": 6,
+      "tagId": "4",
+      "id": 6
     }
   ]
 }
