@@ -11,12 +11,18 @@
       "password": "apod",
       "name": "jake b",
       "id": 2
+    },
+    {
+      "email": "jisie.david@nashvillesoftwareschool.com",
+      "password": "apod",
+      "name": "jisie d",
+      "id": 3
     }
   ],
   "photos": [
     {
       "userId": 1,
-      "noteText": "david1",
+      "noteText": "david-1",
       "title": "Eye of Moon",
       "imageUrl": "https://apod.nasa.gov/apod/image/2012/MoonEye_Cooley_960.jpg",
       "date": "2020-12-02",
@@ -24,7 +30,7 @@
     },
     {
       "userId": 1,
-      "noteText": "david2",
+      "noteText": "david-2",
       "title": "The Antennae Galaxies in Collision",
       "imageUrl": "https://apod.nasa.gov/apod/image/2012/AntennaeGpotw1345a_1024.jpg",
       "date": "2020-12-03",
@@ -32,7 +38,7 @@
     },
     {
       "userId": 1,
-      "noteText": "david3",
+      "noteText": "david-3",
       "title": "Curly Spiral Galaxy M63",
       "imageUrl": "https://apod.nasa.gov/apod/image/2012/Neyerm63_l1_1024.jpg",
       "date": "2020-12-04",
@@ -40,7 +46,7 @@
     },
     {
       "userId": 2,
-      "noteText": "jake1",
+      "noteText": "jake-1",
       "title": "Mammatus Clouds over Mount Rushmore",
       "imageUrl": "https://apod.nasa.gov/apod/image/2012/MammatusRushmore_Mattuzzi_960.jpg",
       "date": "2020-12-07",
@@ -48,35 +54,115 @@
     },
     {
       "userId": 2,
-      "noteText": "jake3",
-      "title": "M16: Pillars of Star Creation",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2012/pillars8_hst_960.jpg",
-      "date": "2020-12-06",
+      "noteText": "jake-2",
+      "title": "Great Conjunction over Sicilian Lighthouse",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/LighthouseJupSat_Saragozza_960.jpg",
+      "date": "2020-12-08",
+      "id": 5
+    },
+    {
+      "userId": 2,
+      "noteText": "jake-3",
+      "title": "Simeis 147: Supernova Remnant",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/S147_GeorgesAttard1024.jpg",
+      "date": "2020-12-10",
       "id": 6
     },
     {
-      "userId": 2,
-      "noteText": "jake4",
-      "title": "Great Conjunction: Saturn and Jupiter Converge",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2012/SaturnJupiter_Voltmer_960.jpg",
-      "date": "2020-12-15",
-      "id": 7
-    },
-    {
-      "userId": 2,
-      "noteText": "jake-user-6",
-      "title": "Mammatus Clouds over Mount Rushmore",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2012/MammatusRushmore_Mattuzzi_960.jpg",
-      "date": "2020-12-07",
-      "id": 8
-    },
-    {
-      "userId": 2,
-      "noteText": "jake-parseint test",
+      "userId": 1,
+      "noteText": "david-4",
       "title": "Mons Rumker in the Ocean of Storms",
       "imageUrl": "https://apod.nasa.gov/apod/image/2012/MonsRumker_Letellier.jpg",
       "date": "2020-12-05",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "noteText": "Interesting....very interesting!",
+      "title": "Fifty Gravitational Wave Events Illustrated",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2011/GWaveSources2020Oct_LigoVIrgo_960.jpg",
+      "date": "2020-11-04",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "noteText": "",
+      "title": "The Hercules Cluster of Galaxies",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2011/Abell2151_Howard_Trottier_2020_FFTelescope1024.jpg",
+      "date": "2020-11-07",
       "id": 9
+    },
+    {
+      "userId": 1,
+      "noteText": "mars planet and moon",
+      "title": "Martian Moon Phobos from Mars Express",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2011/phoboslimb_marsexpress_960.jpg",
+      "date": "2020-11-08",
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "noteText": "Meteors!",
+      "title": "Gemini's Meteors",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/GeminidMeteorsStePelle1024.jpg",
+      "date": "2020-12-17",
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "noteText": "jake's account - big Sun!",
+      "title": "Solar Cycle 25 Has Begun",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2009/ig_maxmin.jpg",
+      "date": "2020-09-17",
+      "id": 12
+    },
+    {
+      "userId": 2,
+      "noteText": "jakes's planet",
+      "title": "The Galaxy, the Planet, and the Apple Tree",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2007/Kristine-Rose-Photography-20200616_001s1024.jpg",
+      "date": "2020-07-02",
+      "id": 13
+    },
+    {
+      "userId": 2,
+      "noteText": "Jake's mars photo",
+      "title": "Mars Panorama from Curiosity",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2003/PIA23623_fig1_600v.jpg",
+      "date": "2020-03-06",
+      "id": 14
+    },
+    {
+      "userId": 2,
+      "noteText": "Jake's constellation photo",
+      "title": "Pic du Midi Panorama",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2003/Pano_Robley2.jpg",
+      "date": "2020-03-07",
+      "id": 15
+    },
+    {
+      "userId": 2,
+      "noteText": "Jake's solar system photo",
+      "title": "Perseids Around the Milky Way",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2008/PerseidBridge_Zhang_1080.jpg",
+      "date": "2020-08-17",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "noteText": "",
+      "title": "Portrait of NGC 3628",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2006/N3628_StefanoCancelli_PaulMortfield1024.jpg",
+      "date": "2020-06-04",
+      "id": 17
+    },
+    {
+      "userId": 3,
+      "noteText": "",
+      "title": "Gemini's Meteors",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/GeminidMeteorsStePelle1024.jpg",
+      "date": "2020-12-17",
+      "id": 18
     }
   ],
   "tags": [
@@ -104,43 +190,93 @@
   "photoTags": [
     {
       "photoId": 1,
-      "tagId": "2",
+      "tagId": 2,
       "id": 1
     },
     {
       "photoId": 2,
-      "tagId": "3",
+      "tagId": 4,
       "id": 2
     },
     {
       "photoId": 3,
-      "tagId": "4",
+      "tagId": 4,
       "id": 3
     },
     {
       "photoId": 4,
-      "tagId": "1",
+      "tagId": 5,
       "id": 4
     },
     {
+      "photoId": 5,
+      "tagId": 2,
+      "id": 5
+    },
+    {
       "photoId": 6,
-      "tagId": "4",
+      "tagId": 5,
       "id": 6
     },
     {
       "photoId": 7,
-      "tagId": "1",
+      "tagId": 2,
       "id": 7
     },
     {
       "photoId": 8,
-      "tagId": "5",
+      "tagId": 5,
       "id": 8
     },
     {
       "photoId": 9,
-      "tagId": 5,
+      "tagId": 3,
       "id": 9
+    },
+    {
+      "photoId": 10,
+      "tagId": 1,
+      "id": 10
+    },
+    {
+      "photoId": 11,
+      "tagId": 5,
+      "id": 11
+    },
+    {
+      "photoId": 12,
+      "tagId": 5,
+      "id": 12
+    },
+    {
+      "photoId": 13,
+      "tagId": 1,
+      "id": 13
+    },
+    {
+      "photoId": 14,
+      "tagId": 1,
+      "id": 14
+    },
+    {
+      "photoId": 15,
+      "tagId": 3,
+      "id": 15
+    },
+    {
+      "photoId": 16,
+      "tagId": 4,
+      "id": 16
+    },
+    {
+      "photoId": 17,
+      "tagId": 3,
+      "id": 17
+    },
+    {
+      "photoId": 18,
+      "tagId": 5,
+      "id": 18
     }
   ]
 }
