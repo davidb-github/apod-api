@@ -22,22 +22,6 @@
   "photos": [
     {
       "userId": 1,
-      "noteText": "Photo of the ISS passing in front of the moon.",
-      "title": "ISS Transits Mars",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2009/MarsISS_Glenn_1000.jpg",
-      "date": "2020-09-23",
-      "id": 4
-    },
-    {
-      "userId": 1,
-      "noteText": "Sharp telescopic views of NGC 3628 show a puffy galactic disk divided by dark dust lanes. Of course, this deep portrait of the magnificent, edge-on spiral galaxy puts some astronomers in mind of its popular moniker, the Hamburger Galaxy. It also reveals a small galaxy nearby, likely a satellite of NGC 3628, and a faint but extensive tidal tail. The drawn out tail stretches for about 300,000 light-years, even beyond the right edge of the wide frame. NGC 3628 shares its neighborhood in the local universe with two other large spirals M65 and M66 in a grouping otherwise known as the Leo Triplet. Gravitational interactions with its cosmic neighbors are likely responsible for creating the tidal tail, as well as the extended flare and warp of this spiral's disk. The tantalizing island universe itself is about 100,000 light-years across and 35 million light-years away in the northern springtime constellation Leo.",
-      "title": "Portrait of NGC 3628",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2006/N3628_StefanoCancelli_PaulMortfield1024.jpg",
-      "date": "2020-06-04",
-      "id": 5
-    },
-    {
-      "userId": 1,
       "noteText": "It's happening. Saturn and Jupiter are moving closer and will soon appear in almost exactly the same direction. Coincidentally, on the night of the December solstice -- the longest night of the year in the north and the longest day in the south -- the long-awaited Great Conjunction will occur. Then, about six days from now, Saturn and Jupiter will be right next to each other -- as they are every 20 years. But this juxtaposition is not just any Great Conjunction -- it will be the closest since 1623 because the two planetary giants will pass only 1/10th of a degree from each other -- well less than the apparent diameter of a full moon. In the next few days a crescent moon will also pass a few degrees away from the converging planets and give a preliminary opportunity for iconic photos. The featured illustration shows the approach of Saturn and Jupiter during November and December over the French Alps. Growing Gallery: Notable images of the Great Conjunction submitted to APOD",
       "title": "Great Conjunction: Saturn and Jupiter Converge",
       "imageUrl": "https://apod.nasa.gov/apod/image/2012/SaturnJupiter_Voltmer_960.jpg",
@@ -54,19 +38,27 @@
     },
     {
       "userId": 1,
-      "noteText": "It was time for their close-up. Two days ago Jupiter and Saturn passed a tenth of a degree from each other in what is known a Great Conjunction. Although the two planets pass each other on the sky every 20 years, this was the closest pass in nearly four centuries. Taken early in day of the Great Conjunction, the featured multiple-exposure combination captures not only both giant planets in a single frame, but also Jupiter's four largest moons (left to right) Callisto, Ganymede, Io, and Europa -- and Saturn's largest moon Titan. If you look very closely, the clear Chilescope image even captures Jupiter's Great Red Spot. The now-separating planets can still be seen remarkably close -- within about a degree -- as they set just after the Sun, toward the west, each night for the remainder of the year. Gallery: Notable images of the Great Conjunction submitted to APOD",
-      "title": "Jupiter Meets Saturn: A Red Spotted Great Conjunction",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2012/GreatConjunction_Peach_960.jpg",
-      "date": "",
-      "id": 9
+      "noteText": "Big, beautiful spiral galaxy NGC 1055 is a dominant member of a small galaxy group a mere 60 million light-years away toward the aquatically intimidating constellation Cetus. Seen edge-on, the island universe spans over 100,000 light-years, a little larger than our own Milky Way galaxy. The colorful, spiky stars decorating this cosmic portrait of NGC 1055 are in the foreground, well within the Milky Way. But the telltale pinkish star forming regions are scattered through winding dust lanes along the distant galaxy's thin disk. With a smattering of even more distant background galaxies, the deep image also reveals a boxy halo that extends far above and below the central bluge and disk of NGC 1055. The halo itself is laced with faint, narrow structures, and could represent the mixed and spread out debris from a satellite galaxy disrupted by the larger spiral some 10 billion years ago.",
+      "title": "Portrait of NGC 1055",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/NGC1055_MP_1024c.jpg",
+      "date": "2020-12-24",
+      "id": 13
     },
     {
       "userId": 1,
-      "noteText": "It's easy to get lost following the intricate looping filaments in this detailed image of supernova remnant Simeis 147. Also cataloged as Sharpless 2-240 it goes by the popular nickname, the Spaghetti Nebula. Seen toward the boundary of the constellations Taurus and Auriga, it covers nearly 3 degrees or 6 full moons on the sky. That's about 150 light-years at the stellar debris cloud's estimated distance of 3,000 light-years. This composite includes image data taken through narrow-band filters where reddish emission from ionized hydrogen atoms and doubly ionized oxygen atoms in faint blue-green hues trace the shocked, glowing gas. The supernova remnant has an estimated age of about 40,000 years, meaning light from the massive stellar explosion first reached Earth 40,000 years ago. But the expanding remnant is not the only aftermath. The cosmic catastrophe also left behind a spinning neutron star or pulsar, all that remains of the original star's core.",
-      "title": "Simeis 147: Supernova Remnant",
-      "imageUrl": "https://apod.nasa.gov/apod/image/2012/S147_GeorgesAttard1024.jpg",
-      "date": "2020-12-10",
-      "id": 11
+      "noteText": "When the shadow of the Moon raced across planet Earth's southern hemisphere on December 14, sky watchers along the shadow's dark central path were treated to the only total solar eclipse of 2020. During the New Moon's shadow play this glistening diamond ring was seen for a moment, even in cloudy skies. Known as the diamond ring effect, the transient spectacle actually happens twice. Just before and immediately after totality, a thin sliver of solar disk visible behind the Moon's edge creates the appearance of a shiny jewel set in a dark ring. This dramatic snapshot from the path of totality in northern Patagonia, Argentina captures this eclipse's second diamond ring, along with striking solar prominences lofted beyond the edge of the Moon's silhouette.",
+      "title": "Diamond in the Sky",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/2020Dec14TSE_Ribas_IMG_9291c1024.jpg",
+      "date": "2020-12-18",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "noteText": "Big, beautiful spiral galaxy NGC 1055 is a dominant member of a small galaxy group a mere 60 million light-years away toward the aquatically intimidating constellation Cetus. Seen edge-on, the island universe spans over 100,000 light-years, a little larger than our own Milky Way galaxy. The colorful, spiky stars decorating this cosmic portrait of NGC 1055 are in the foreground, well within the Milky Way. But the telltale pinkish star forming regions are scattered through winding dust lanes along the distant galaxy's thin disk. With a smattering of even more distant background galaxies, the deep image also reveals a boxy halo that extends far above and below the central bluge and disk of NGC 1055. The halo itself is laced with faint, narrow structures, and could represent the mixed and spread out debris from a satellite galaxy disrupted by the larger spiral some 10 billion years ago.",
+      "title": "Portrait of NGC 1055",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2012/NGC1055_MP_1024c.jpg",
+      "date": "",
+      "id": 15
     },
     {
       "userId": 1,
@@ -74,7 +66,15 @@
       "title": "Eye of Moon",
       "imageUrl": "https://apod.nasa.gov/apod/image/2012/MoonEye_Cooley_960.jpg",
       "date": "2020-12-02",
-      "id": 12
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "noteText": "As telescopes around planet Earth watch, Mars is growing brighter in night skies, approaching its 2020 opposition on October 13. Mars looks like it's watching too in this view of the Red Planet from September 22. Mars' disk is already near its maximum apparent size for earthbound telescopes, less than 1/80th the apparent diameter of a Full Moon. The seasonally shrinking south polar cap is at the bottom and hazy northern clouds are at the top. A circular, dark albedo feature, Solis Lacus (Lake of the Sun), is just below and left of disk center. Surrounded by a light area south of Valles Marineris, Solis Lacus looks like a planet-sized pupil, famously known as The Eye of Mars . Near the turn of the 20th century, astronomer and avid Mars watcher Percival Lowell associated the Eye of Mars with a conjunction of canals he charted in his drawings of the Red Planet. Broad, visible changes in the size and shape of the Eye of Mars are now understood from high resolution surface images to be due to dust transported by winds in the thin Martian atmosphere.",
+      "title": "Solis Lacus: The Eye of Mars",
+      "imageUrl": "https://apod.nasa.gov/apod/image/2010/m2020_09_22Adp.jpg",
+      "date": "2020-10-01",
+      "id": 17
     }
   ],
   "tags": [
@@ -101,16 +101,6 @@
   ],
   "photoTags": [
     {
-      "photoId": 4,
-      "tagId": 3,
-      "id": 4
-    },
-    {
-      "photoId": 5,
-      "tagId": 4,
-      "id": 5
-    },
-    {
       "photoId": 7,
       "tagId": 5,
       "id": 7
@@ -121,19 +111,29 @@
       "id": 8
     },
     {
-      "photoId": 9,
-      "tagId": 1,
-      "id": 9
-    },
-    {
-      "photoId": 11,
+      "photoId": 13,
       "tagId": 4,
-      "id": 11
+      "id": 13
     },
     {
-      "photoId": 12,
+      "photoId": 14,
       "tagId": 2,
-      "id": 12
+      "id": 14
+    },
+    {
+      "photoId": 15,
+      "tagId": 4,
+      "id": 15
+    },
+    {
+      "photoId": 16,
+      "tagId": 2,
+      "id": 16
+    },
+    {
+      "photoId": 17,
+      "tagId": 1,
+      "id": 17
     }
   ]
 }
